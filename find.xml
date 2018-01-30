@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Directory '.../templates [123opzeggen]'" />
+    <option name="defaultScopeName" value="Directory '.../templates [123opzeggen]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../templates [123opzeggen]'" />
   </component>
 </application>
