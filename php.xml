@@ -1,12 +1,14 @@
 <application>
   <component name="MessDetector">
     <phpmd_settings>
-      <phpmd_by_interpreter interpreter_id="68ba34c3-8351-4fe2-9aa6-0e22b283efad" tool_path="/srv/oppasland/bin/phpmd" />
+      <phpmd_by_interpreter interpreter_id="d7126f10-7cf2-4515-8e42-0918e5c74089" tool_path="/srv/123opzeggen/vendor/phpmd/phpmd/src/bin/phpmd" />
+      <phpmd_by_interpreter interpreter_id="68ba34c3-8351-4fe2-9aa6-0e22b283efad" tool_path="/srv/oppasland/vendor/phpmd/phpmd/src/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <phpcs_by_interpreter interpreter_id="68ba34c3-8351-4fe2-9aa6-0e22b283efad" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="/srv/oppasland/bin/phpcs" />
+      <phpcs_by_interpreter interpreter_id="d7126f10-7cf2-4515-8e42-0918e5c74089" tool_path="/srv/123opzeggen/vendor/squizlabs/php_codesniffer/bin/phpcs" />
+      <phpcs_by_interpreter interpreter_id="68ba34c3-8351-4fe2-9aa6-0e22b283efad" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="/srv/oppasland/vendor/squizlabs/php_codesniffer/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
