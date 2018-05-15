@@ -11,6 +11,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="sls" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping pattern="studio-verhuren" type="Twig" />
     </extensionMap>
   </component>
 </application>
