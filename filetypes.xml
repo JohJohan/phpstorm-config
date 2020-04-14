@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".php_cs.dist" type="PHP" />
+      <mapping pattern="dashboard" type="PLAIN_TEXT" />
       <mapping pattern=".local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
